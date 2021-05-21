@@ -1,7 +1,7 @@
 # Estrutura-de-Dados
 Disciplina Estrutura de Dados do curso de ADS
 
-# Pilhas
+## Pilhas
 -Foram realizados alguns exercícios:
 1) mostrar o elemento da base;
 2) mostrar o elemento do topo;
@@ -11,7 +11,7 @@ Disciplina Estrutura de Dados do curso de ADS
 6) empilhar uma pilha sobre a outra;
 7) somar duas pilhas e retornar a nova pilha.
 
-# Filas
+## Filas
 -Foi feito a implementação de diversos algoritmos de fila como:
 1) fila sem compactação;
 2) fila com compactação "burra", isto é, a cada retirada de elemento;
