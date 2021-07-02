@@ -1,5 +1,5 @@
 # Estrutura-de-Dados
-Disciplina "Estrutura de Dados" do curso de ADS
+Disciplina "Estrutura de Dados" do curso de ADS.
 
 ## Stack (Pilhas)
 - Além das operações básicas (criar pilha, push (inserir), pop (retirar), verificar se está vazia, mostrar a pilha, liberar a estrutura), foram realizados alguns exercícios:
